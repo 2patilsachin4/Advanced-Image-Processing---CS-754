@@ -1,1 +1,0 @@
-To run the main code, run main.m file. main.m and omp.m in the code folder are the submitted files. Rest are from mmread function.
